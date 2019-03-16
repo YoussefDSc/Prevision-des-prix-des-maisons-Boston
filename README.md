@@ -1,0 +1,2 @@
+# Prevision-des-prix-des-maisons-Boston
+Dans ce projet, j'évaluerai la performance et la puissance prédictive d'un modèle qui a été formé et testé sur des données recueillies dans des maisons de banlieue de Boston, Massachusetts. Un modèle formé à partir de ces données et considéré comme un bon ajustement pourrait ensuite être utilisé pour faire certaines prédictions sur une maison - en particulier, sur sa valeur monétaire. Ce modèle s'avérerait inestimable pour quelqu'un comme un agent immobilier qui pourrait utiliser cette information sur une base quotidienne.
